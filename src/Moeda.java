@@ -35,7 +35,7 @@
                         System.out.println("3) [Real] convertido para => [Dolar]");
                         System.out.println("4) [Dólar] convertido para => [Real]");
                         System.out.println("5) [Dólar] convertido para => [Peso colombiano]");
-                        System.out.println("6)  [Peso colombiano] convertido para => [Dólar]");
+                        System.out.println("6) [Peso colombiano] convertido para => [Dólar]");
 
                         System.out.println("7) SAIR DO MENU ");
 
